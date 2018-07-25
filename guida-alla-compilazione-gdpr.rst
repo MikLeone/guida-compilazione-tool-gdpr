@@ -113,12 +113,12 @@ riferimento:
    Gli ambiti del GDPR
 
    +-----------------------+-----------------------+-----------------------+
-   | **AMBITO GDPR**       | **DESCRIZIONE**       | **ARTICOLO DI         |
-   |                       |                       | RIFERIMENTO**         |
+   | **AMBITO GDPR**       | **DESCRIZIONE**       | **ARTICOLO DI**       |
+   |                       |                       | **RIFERIMENTO**       |
    +=======================+=======================+=======================+
-   | **Registri delle      | Implementazione dei   | Articolo 30           |
-   | attività di           | registri delle        |                       |
-   | trattamento**         | attività di           |                       |
+   | **Registri delle**    | Implementazione dei   | Articolo 30           |
+   | **attività di**       | registri delle        |                       |
+   | **trattamento**       | attività di           |                       |
    |                       | trattamento           |                       |
    |                       | contenenti le         |                       |
    |                       | informazioni relative |                       |
@@ -129,9 +129,9 @@ riferimento:
    |                       | interessati e di dati |                       |
    |                       | trattati.             |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Modello             | Definizione di un     | Articolo 24, 26, 28,  |
-   | Organizzativo         | modello organizzativo | 37, 38, 39            |
-   | Privacy**             | che attribuisca ruoli |                       |
+   | **Modello**           | Definizione di un     | Articolo 24, 26, 28,  |
+   | **Organizzativo**     | modello organizzativo | 37, 38, 39            |
+   | **Privacy**           | che attribuisca ruoli |                       |
    |                       | e responsabilità in   |                       |
    |                       | ambito privacy a      |                       |
    |                       | ciascun soggetto, al  |                       |
@@ -139,8 +139,8 @@ riferimento:
    |                       | adeguato trattamento  |                       |
    |                       | dei dati.             |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Informativa e       | Analisi delle         | Articolo 7, 13, 14    |
-   | Consenso**            | informative privacy e |                       |
+   | **Informativa e**     | Analisi delle         | Articolo 7, 13, 14    |
+   | **Consenso**          | informative privacy e |                       |
    |                       | dei consensi          |                       |
    |                       | esistenti e           |                       |
    |                       | aggiornamento con le  |                       |
@@ -149,8 +149,8 @@ riferimento:
    |                       | prescrizioni del      |                       |
    |                       | GDPR.                 |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Flussi              | Valutazione della     | Articolo 3, 44, 45,   |
-   | transfrontalieri**    | legittimità dei       | 46, 48, 49            |
+   | **Flussi**            | Valutazione della     | Articolo 3, 44, 45,   |
+   | **transfrontalieri**  | legittimità dei       | 46, 48, 49            |
    |                       | trasferimenti di dati |                       |
    |                       | personali presso      |                       |
    |                       | paesi terzi o         |                       |
@@ -160,8 +160,8 @@ riferimento:
    |                       | di sicurezza          |                       |
    |                       | garantito.            |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Rapporti con gli    | Definizione delle     | Articolo 13, 14, 15,  |
-   | interessati**         | modalità operative    | 16, 17, 18, 19, 20,   |
+   | **Rapporti con gli**  | Definizione delle     | Articolo 13, 14, 15,  |
+   | **interessati**       | modalità operative    | 16, 17, 18, 19, 20,   |
    |                       | per l'interazione con | 21, 22                |
    |                       | gli interessati       |                       |
    |                       | (accesso,             |                       |
@@ -174,26 +174,27 @@ riferimento:
    |                       | comunicazione data    |                       |
    |                       | breach).              |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Valutazione         | Valutazione d'impatto | Articolo 35           |
-   | d'impatto sulla       | sulla protezione dei  |                       |
-   | protezione dei dati   | dati per le attività  |                       |
-   | (DPIA)**              | di trattamento che    |                       |
+   | **Valutazione**       | Valutazione d'impatto | Articolo 35           |
+   | **d'impatto sulla**   | sulla protezione dei  |                       |
+   | **protezione dei**    |                       |                       |
+   | **per le attività**   |                       |                       |
+   | **(DPIA)**            | di trattamento che    |                       |
    |                       | possono presentare un |                       |
    |                       | rischio elevato per i |                       |
    |                       | diritti e le libertà  |                       |
    |                       | delle persone fisiche |                       |
    |                       | interessate.          |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Misure tecniche e   | Implementazione di    | Articolo 32           |
-   | organizzative**       | misure tecniche e     |                       |
+   | **Misure tecniche e** | Implementazione di    | Articolo 32           |
+   | **organizzative**     | misure tecniche e     |                       |
    |                       | organizzative con     |                       |
    |                       | l'obiettivo di        |                       |
    |                       | garantire un livello  |                       |
    |                       | di sicurezza adeguato |                       |
    |                       | al rischio.           |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Privacy by design e | Definizione di        | Articolo 25           |
-   | Privacy by default**  | politiche, linee      |                       |
+   | **Privacy by design** | Definizione di        | Articolo 25           |
+   | **Privacy by default**| politiche, linee      |                       |
    |                       | guida, procedure a    |                       |
    |                       | supporto di nuovi     |                       |
    |                       | prodotti e servizi,   |                       |
@@ -213,8 +214,8 @@ riferimento:
    |                       | reattività,           |                       |
    |                       | comunicazioni).       |                       |
    +-----------------------+-----------------------+-----------------------+
-   | **Rapporti con il     | Valutazione ed        | Articolo 31, 36       |
-   | Garante**             | impostazione delle    |                       |
+   | **Rapporti con il**   | Valutazione ed        | Articolo 31, 36       |
+   | **Garante**           | impostazione delle    |                       |
    |                       | interazioni con il    |                       |
    |                       | Garante, in           |                       |
    |                       | particolare riguardo  |                       |

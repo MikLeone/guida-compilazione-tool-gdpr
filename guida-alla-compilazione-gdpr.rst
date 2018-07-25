@@ -110,8 +110,6 @@ riferimento:
 .. table:: Gli ambiti del GDPR.
    :name: ambiti GDPR
 
-   Gli ambiti del GDPR
-
    +-----------------------+-----------------------+-----------------------+
    | **AMBITO GDPR**       | **DESCRIZIONE**       | **ARTICOLO DI**       |
    |                       |                       | **RIFERIMENTO**       |
@@ -226,6 +224,8 @@ riferimento:
    |                       | Preventiva).          |                       |
    +-----------------------+-----------------------+-----------------------+
 
+   Gli ambiti del GDPR
+      
 .. figure:: media/Ambiti-gdpr.png
    :alt: Ambiti del GDPR
    :name: Ambiti gdpr
@@ -238,8 +238,6 @@ descritte:
 
 .. table:: Risposte previste per tool GDPR.
    :name: risposte tool GDPR
-
-   Risposte previste per tool GDPR
 
    +-----------------------------------+-----------------------------------+
    | **RISPOSTA**                      | **DESCRIZIONE**                   |
@@ -278,7 +276,8 @@ descritte:
    |                                   | l'elenco dei requisiti riportati  |
    |                                   | nelle informazioni aggiuntive).   |
    +-----------------------------------+-----------------------------------+
-
+   Risposte previste per tool GDPR
+   
 Cliccando sull’icona "i" di info l’utente potrà visualizzare le informazioni
 aggiuntive
 

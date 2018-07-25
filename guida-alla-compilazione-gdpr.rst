@@ -62,7 +62,7 @@ Questionario.
 I dati del Questionario potranno essere modificati ed il risultato
 varierà in base alle modifiche apportate.
 
-.. figure:: media/home-questionario-gdpr.png
+.. figure:: media/home questionario gdpr.png
    :alt: Home screen del questionario di autovalutazione GDPR
    :name: home questionario gdpr
 

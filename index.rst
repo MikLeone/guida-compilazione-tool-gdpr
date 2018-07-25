@@ -8,4 +8,4 @@ Guida all'accesso alla registrazione utente e alla compilazione del questionario
 
 .. toctree::
 
-   _guida-alla-compilazione-gdpr.rst
+   guida-alla-compilazione-gdpr.rst

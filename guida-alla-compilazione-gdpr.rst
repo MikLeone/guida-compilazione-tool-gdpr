@@ -75,7 +75,7 @@ varierà in base alle modifiche apportate.
 
    Home screen da loggati al questionario di autovalutazione GDPR
 
-OBIETTIVO DEL QUESTIONARIO DI AUTOVALUTAZIONE
+Obiettivo del questionario di autovalutazione
 ---------------------------------------------
 
 Usufruendo del servizio, in circa 50 minuti, la PA sarà in grado di
@@ -281,8 +281,9 @@ descritte:
 Cliccando sull’icona "i" di info l’utente potrà visualizzare le informazioni
 aggiuntive
 
-VISUALIZZA RISULTATI
---------------------
+
+Visualizza i risultati
+----------------------
 
 .. figure:: Dashboard risultati gdpr.png
    :alt: Dashboard dei risultati del tool GDPR

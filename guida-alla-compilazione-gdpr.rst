@@ -223,9 +223,7 @@ riferimento:
    |                       | (Consultazione        |                       |
    |                       | Preventiva).          |                       |
    +-----------------------+-----------------------+-----------------------+
-
-   Gli ambiti del GDPR
-      
+       
 .. figure:: media/Ambiti-gdpr.png
    :alt: Ambiti del GDPR
    :name: Ambiti gdpr
@@ -276,9 +274,7 @@ descritte:
    |                                   | l'elenco dei requisiti riportati  |
    |                                   | nelle informazioni aggiuntive).   |
    +-----------------------------------+-----------------------------------+
-   
-   Risposte previste per tool GDPR
-   
+     
 Cliccando sull’icona "i" di info l’utente potrà visualizzare le informazioni
 aggiuntive
 

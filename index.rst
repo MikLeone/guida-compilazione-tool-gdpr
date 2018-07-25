@@ -3,13 +3,10 @@ Guida alla compilazione del tool di GDPR
 ########################################
 
 
-Questo documento descrive ... 
+GUIDA ALL’ACCESSO ALLA REGISTRAZIONE UTENTE E ALLA COMPILAZIONE DEL QUESTIONARIO
+Guida all'accesso alla registrazione utente e alla compilazione del questionario di auto valutazione di GDPR
 
-Nel Capitolo 1 vengono presentati ... 
-
-Nel Capitolo 2 vengono presentati ...
 
 .. toctree::
 
-   _docs/cap1.rst
    _guida-alla-compilazione-gdpr.rst

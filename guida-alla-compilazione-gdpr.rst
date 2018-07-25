@@ -62,7 +62,7 @@ Questionario.
 I dati del Questionario potranno essere modificati ed il risultato
 varierà in base alle modifiche apportate.
 
-.. figure:: media/home questionario gdpr.png
+.. figure:: media/home-questionario-gdpr.png
    :alt: Home screen del questionario di autovalutazione GDPR
    :name: home questionario gdpr
 
@@ -225,7 +225,7 @@ riferimento:
    |                       | Preventiva).          |                       |
    +-----------------------+-----------------------+-----------------------+
 
-.. figure:: media/ambiti-gdpr.png
+.. figure:: media/Ambiti-gdpr.png
    :alt: Ambiti del GDPR
    :name: Ambiti gdpr
 
@@ -285,7 +285,7 @@ aggiuntive
 Visualizza i risultati
 ----------------------
 
-.. figure:: Dashboard risultati gdpr.png
+.. figure:: media/Dashboard-risultati-gdpr.png
    :alt: Dashboard dei risultati del tool GDPR
    :name: Dashboard risultati gdpr
 
@@ -321,7 +321,7 @@ I risultati possibili potranno essere:
    visualizzare il dettaglio del risultato, con le indicazioni per delle
    azioni da effettuare.
 
-.. figure:: media/azioni-trattamento-gdpr.png
+.. figure:: media/Azioni-trattamento-gdpr.png
    :alt: Azioni di trattamento GDPR
    :name: azioni trattamento gdpr
 

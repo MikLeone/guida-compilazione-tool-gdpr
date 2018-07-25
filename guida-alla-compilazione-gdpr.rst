@@ -276,6 +276,7 @@ descritte:
    |                                   | l'elenco dei requisiti riportati  |
    |                                   | nelle informazioni aggiuntive).   |
    +-----------------------------------+-----------------------------------+
+   
    Risposte previste per tool GDPR
    
 Cliccando sull’icona "i" di info l’utente potrà visualizzare le informazioni

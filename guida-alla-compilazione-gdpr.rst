@@ -108,7 +108,7 @@ contenente la descrizione di ciascun ambito e gli articoli GDPR di
 riferimento:
 
 .. table:: Gli ambiti del GDPR.
-   :name: ambiti GDPR
+  :name: ambiti GDPR
 
    Gli ambiti del GDPR
 
